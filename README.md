@@ -113,6 +113,8 @@ Inspired by Google Zanzibar, Google's global authorization system built around r
 - [Axiomatics](https://www.axiomatics.com/) - Enterprise ABAC platform.
 - [PlainID](https://www.plainid.com/) - Policy-based access control for enterprises.
 
+- [Speakeasy control plane](https://www.speakeasy.com/) - MCP gateway with identity-based tool permissions, per-action security policy, and audit logs.
+
 ## Access Control Models
 
 - [RBAC](https://csrc.nist.gov/projects/role-based-access-control) - Role-Based Access Control. Permissions are assigned to roles, roles to users.
